@@ -37,7 +37,8 @@ The objective of this initiative is to conduct data analysis on Uber-related dat
 - **Looker Studio** enables visualization and exploration of the analyzed Uber data, making it easier to communicate findings and insights effectively within the project team or to stakeholders.
 
 ## Architecture 
-<img src="architecture.jpg">
+<img src="Project architecture.jpg">
+
 
 ## Technology Used
 - Programming Language - Python
